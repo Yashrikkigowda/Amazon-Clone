@@ -1,0 +1,43 @@
+*{
+    margin: 0%;
+}
+.homy{
+    height: 300vh;
+    width: 80%;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    right: 0%;
+    top: 40px;
+}
+.side{
+    height: 100vh;
+    width: 20%;
+    background-color: white;
+    font-size: 18px;
+    padding-left: 10px;
+    padding-top: 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.hom1 img{
+    width: 100%;
+}
+.hom2{
+    height: 400px;
+    width: 100%;
+    background-color: aqua;
+}
+.hom2 img{
+    height: 400px;
+    width: 300px;
+}
+.hom3{
+    height: 350px;
+    width: 100%;
+    background-color: aqua;
+}
+.hom3 img{
+    height: 350px;
+    width: 300px;
+}
